@@ -7,3 +7,6 @@ What is Domain Name
 What Is Browser & How they work
 
 -Basic Frontend Knowledge
+HTML
+CSS
+JavaScript
