@@ -6,7 +6,12 @@ What is Hosting
 What is Domain Name
 What Is Browser & How they work
 
+-Learn OSs
+How OSs work in general
+termianl usage
+memory management
+Basic teminal command
+
 -Basic Frontend Knowledge
-HTML
 CSS
 JavaScript
